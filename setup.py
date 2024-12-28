@@ -11,7 +11,7 @@ setup(
     description="A simple packet for generate a unique and safety passwords!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dannynicolae87/unique_code_generator.git",
+    url="https://github.com/dannynicolae87/my_package_python_danny.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
